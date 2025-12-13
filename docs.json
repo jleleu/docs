@@ -14,9 +14,20 @@
         "tab": "L'Art des Petits Pas",
         "groups": [
           {
+            "group": "Bienvenue",
+            "pages": [
+              "welcome/about-this-book"
+            ]
+          },
+          {
             "group": "La méthode",
             "pages": [
-              "index",
+              "index"
+            ]
+          },
+          {
+            "group": "Le Refinement",
+            "pages": [
               "quickstart",
               "development"
             ]
@@ -29,7 +40,7 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Traiter une US",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
@@ -109,15 +120,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
