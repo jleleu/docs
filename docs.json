@@ -11,10 +11,18 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "L'Art des Petits Pas",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "La méthode",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Le Sprint Planning",
             "pages": [
               "index",
               "quickstart",
