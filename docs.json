@@ -24,7 +24,6 @@
           {
             "group": "Le Sprint Planning",
             "pages": [
-              "index",
               "quickstart",
               "development"
             ]
